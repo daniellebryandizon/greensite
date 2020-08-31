@@ -1,0 +1,29 @@
+.dialog-item{
+    text-align: center !important;
+}
+
+.dialog-avatar{
+    padding-top: 50px !important;
+    padding-left: 50px !important;
+    padding-right: 50px !important;
+}
+
+.dialog-title{
+    padding-bottom: -5px !important;
+}
+
+.dialog-label{
+    color: #00c853 !important;
+    font-size: 15px !important;
+    font-style: italic;
+    margin-top: -10px !important;
+    margin-bottom: 10px !important;
+}
+
+.dialog-info {
+    padding-top: 10px !important;
+    padding-left: 30px !important;
+    padding-right: 30px !important;
+    padding-bottom: 30px !important;
+    font-style: italic !important;
+}

@@ -1,0 +1,36 @@
+.faq-container {
+    padding: 50px;
+}
+
+.faq-body{
+    padding-top: 20px;
+}
+
+.question-group{
+    padding: 10px;
+}
+
+.question-answer{
+    font-style: italic;
+    padding: 10px;
+}
+
+.nested-answer{
+    margin-top: 10px;
+}
+
+.question-nested-answer{
+    padding-top: 10px;
+    padding-left: 10px;
+    font-style: italic;
+}
+
+.faq-divider{
+    background-color:#00c853 !important;
+    margin: 0 auto !important;
+    width: 10%;
+}
+
+.use{
+    color: #00c853 !important;
+}

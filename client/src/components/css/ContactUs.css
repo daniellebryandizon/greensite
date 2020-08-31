@@ -1,0 +1,30 @@
+.contact-container {
+    padding: 50px;
+    text-align: center !important;
+}
+
+.contact-group {
+    background-color: #fafafa !important;
+    padding: 10px;
+    width: 30%;
+}
+
+.contact-item {
+    margin-top: 10px !important;
+    font-style: italic;
+}
+
+.divider {
+    margin: 0 auto !important;
+    width: 40%;
+}
+
+.subtitle-header{
+    color: #00c853 !important;
+    font-style: italic;
+}
+
+.contact-link{
+    text-decoration: none !important;
+    color: inherit !important;
+}

@@ -1,0 +1,20 @@
+.application-bar{
+    color: #000000 !important;
+    background-color: #ffffff !important;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.application-bar-avatar{
+    width: 100px;
+}
+
+.application-bar-title{
+    flex-grow: 1;
+}
+
+.application-bar-link {
+    min-width: 80px;
+    text-decoration: none !important;
+    color: #757575 !important;
+}

@@ -1,0 +1,43 @@
+body {
+    background-color: #ffffff !important;
+}
+
+.home-container {
+    padding: 40px;
+}
+
+.home-body {
+    padding-top: 10px;
+}
+
+.microgreen-item{
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    cursor: pointer;
+}
+
+.microgreen-label {
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.microgreen-name {
+    margin-top: 20px !important;
+    font-size: 25px !important;
+}
+
+.microgreen-desc {
+    color: #00e676 !important;
+    font-size: 15px !important;
+    font-style: italic;
+}
+
+.pricing{
+    color: #757575 !important;
+    font-size: 15px !important;
+    font-style: italic;
+    text-align: center;
+    margin: 0 auto;
+    width: 50%;
+}
