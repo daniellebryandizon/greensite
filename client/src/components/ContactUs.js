@@ -1,6 +1,7 @@
 import React, { Fragment } from 'react';
 
 import { Typography, Container, Grid } from '@material-ui/core';
+import FacebookIcon from '@material-ui/icons/Facebook';
 import { makeStyles } from '@material-ui/core/styles';
 import ContactLogo from './css/images/ARKIP_GARDENS-removebg-preview.png';
 import './css/ContactUs.css';
@@ -30,16 +31,16 @@ const ContactUs = () => {
                                 <br />
                                 {/*<Divider className="divider"></Divider>*/}
                                 <br />
-                                <Typography variant="h5" className="contact-header"><strong>Contact Numbers</strong></Typography>
+                                <Typography variant="h5" className="contact-header"><strong>Contact Us!</strong></Typography>
                                 <div className="contact-item">
                                     <Typography variant="subtitle1">0929-791-9734 </Typography>
                                     <Typography variant="subtitle1">0918-230-8694</Typography>
-                                    (Smart)
                                 </div>
                                 <br />
-                                <Typography variant="h5" className="contact-header"><strong>Social Media</strong></Typography>
+                                <Typography variant="h5" className="contact-header"><strong>Follow Us!</strong></Typography>
                                 <div className="contact-item">
-                                    <Typography variant="subtitle1">Facebook Page</Typography>
+                                    {/*<Typography variant="subtitle1">Facebook Page</Typography>*/}
+                                    <FacebookIcon className="facebook-icon"/>
                                     <a href="//www.facebook.com/arkipgardens" target="_blank" rel="noopener noreferrer" className="contact-link">
                                         <Typography variant="subtitle1">www.facebook.com/arkipgardens</Typography>
                                     </a>
