@@ -1,0 +1,21 @@
+.cart-quantity{
+    display: flex;
+}
+
+.cart-quanity-count{
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.cart-control{
+    cursor: pointer;
+}
+
+.cart-remove{
+    background-color: #4caf50 !important;
+}
+
+.cart-image{
+    width: 50px;
+    height: 50px;
+}

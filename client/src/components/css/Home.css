@@ -3,7 +3,7 @@ body {
 }
 
 .home-container {
-    padding: 40px;
+    padding: 50px;
 }
 
 .home-body {
@@ -28,7 +28,7 @@ body {
 }
 
 .microgreen-desc {
-    color: #00e676 !important;
+    color: #4caf50 !important;
     font-size: 15px !important;
     font-style: italic;
 }

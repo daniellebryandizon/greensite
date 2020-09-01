@@ -14,7 +14,12 @@
 }
 
 .application-bar-link {
+    font-size: 15px;
     min-width: 80px;
     text-decoration: none !important;
     color: #757575 !important;
+}
+
+.navbar-icon{
+    float: left !important;
 }

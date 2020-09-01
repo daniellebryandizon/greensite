@@ -1,0 +1,29 @@
+.orders-container {
+    padding: 50px;
+}
+
+.orders-body {
+    margin-top: 50px;
+}
+
+.order-panel{
+    padding: 50px !important;
+}
+
+.MuiTabs-indicator {
+    background-color: #4caf50 !important;
+}
+
+.MuiTab-textColorPrimary {
+    font-weight: 400 !important;
+}
+
+.MuiTab-textColorPrimary.Mui-selected {
+    color: #000000 !important;
+    font-weight: 400 !important;
+}
+
+.MuiTab-root {
+    text-transform: initial !important;
+    font-size: 18px !important;
+}

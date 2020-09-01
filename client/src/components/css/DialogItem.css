@@ -8,12 +8,15 @@
     padding-right: 50px !important;
 }
 
-.dialog-title{
-    padding-bottom: -5px !important;
+.dialog-title-name{
+    font-size: 30px !important;
+    font-weight: 6500 !important;
+    padding-bottom: 10px;
+    padding-top: 10px;
 }
 
 .dialog-label{
-    color: #00c853 !important;
+    color: #4caf50 !important;
     font-size: 15px !important;
     font-style: italic;
     margin-top: -10px !important;
@@ -26,4 +29,38 @@
     padding-right: 30px !important;
     padding-bottom: 30px !important;
     font-style: italic !important;
+}
+
+.dialog-quantity{
+    padding-left: 30px !important;
+    padding-right: 30px !important;
+    padding-bottom: 10px !important;
+    font-size: 20px;
+    margin: 0 auto;
+}
+
+.dialog-quantity-controls{
+    display: flex;
+}
+
+.dialog-control{
+    font-size: 40px !important;
+    cursor: pointer;
+}
+
+.quantity-count{
+    padding-left: 30px;
+    padding-right: 30px;
+    font-size: 30px !important;
+}
+
+.dialog-buy{
+    margin: 0 auto;
+    width: 100% !important;
+    padding: 10px !important;
+}
+
+.dialog-buy-button{
+    background-color: #4caf50 !important;
+    width: 200px;
 }
